@@ -494,7 +494,7 @@
   dependencies:
     "@chakra-ui/utils" "1.10.2"
 
-"@chakra-ui/icons@^1.0.5":
+"@chakra-ui/icons@^1.1.5":
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/@chakra-ui/icons/-/icons-1.1.5.tgz#ae727d1dab116d59d69055251a20fd4c4e7318f7"
   integrity sha512-UjTexT3SXCNu6XbAjyHFTkYAMSq5MFTf1b5WSmvI6Bt4PZ5hYXGKGeFVaZi4jH58WCWD/HKsEq+MrHBDaaeUnA==
@@ -779,7 +779,7 @@
     "@chakra-ui/checkbox" "1.6.5"
     "@chakra-ui/utils" "1.10.2"
 
-"@chakra-ui/system@1.10.3":
+"@chakra-ui/system@1.10.3", "@chakra-ui/system@^1.10.3":
   version "1.10.3"
   resolved "https://registry.yarnpkg.com/@chakra-ui/system/-/system-1.10.3.tgz#b45948060bdcc3a2823ae6a2da91fa219dd4afbc"
   integrity sha512-am/0EvK+F+kiZ99ulhUfaYYADlP1wI4Zw8IWrsaliSfqSB3qgKahNC/U2A0nWG9T7wwLHVGO/ehCNfAKP1aK2g==
@@ -1999,6 +1999,11 @@ babel-preset-jest@^27.5.1:
   dependencies:
     babel-plugin-jest-hoist "^27.5.1"
     babel-preset-current-node-syntax "^1.0.0"
+
+babel@^6.23.0:
+  version "6.23.0"
+  resolved "https://registry.yarnpkg.com/babel/-/babel-6.23.0.tgz#d0d1e7d803e974765beea3232d4e153c0efb90f4"
+  integrity sha1-0NHn2APpdHZb7qMjLU4VPA77kPQ=
 
 balanced-match@^1.0.0:
   version "1.0.2"
